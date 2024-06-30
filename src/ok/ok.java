@@ -14,6 +14,5 @@ public class ok {
         System.out.println("huy");
         System.out.println("ok");
         System.out.println("ok");
-
     }
 }
