@@ -13,6 +13,8 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("vai");
         System.out.println("vc");
-        System.out.println("phong code...");
+        System.out.println("phong code...");    
+                System.out.println("phong code");    
+
     }
 }
