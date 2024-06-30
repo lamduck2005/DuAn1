@@ -15,8 +15,7 @@ public class TestGit {
      */
     public static void main(String[] args) {
         // TODO code application logic 
-        System.out.println("Phong xấu");
-        
+        System.out.println("Ngoài cứt ra phong còn ăn gì nữa không");
     }
     
 }
