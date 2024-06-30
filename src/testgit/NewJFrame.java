@@ -12,9 +12,6 @@ import java.awt.Graphics;
  */
 public class NewJFrame extends javax.swing.JFrame {
 
-    /**
-     * Creates new form NewJFrame
-     */
     public NewJFrame() {
         initComponents();
     }
@@ -46,7 +43,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     @Override
     public void print(Graphics g) {
-        System.out.println("");
+        System.out.println("phong");
     }
 
     /**
